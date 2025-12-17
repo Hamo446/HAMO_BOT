@@ -1,0 +1,21 @@
+{
+  "name": "hamo-bot",
+  "version": "3.0.0",
+  "description": "𝑯𝑨𝑴𝑶_𝑩𝑶𝑻 - بوت واتساب على Koyeb 2025",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "arabic-bot",
+    "hamo"
+  ],
+  "author": "𝑯𝑨𝑴𝑶",
+  "license": "HAMO © 2025",
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.1",
+    "qrcode-terminal": "^0.12.0",
+    "express": "^4.18.2"
+  }
+}
