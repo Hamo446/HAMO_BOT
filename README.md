@@ -1,0 +1,2 @@
+# HAMO_BOT
+bot
